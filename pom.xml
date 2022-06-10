@@ -12,7 +12,7 @@
 
     <groupId>org.orbisgis</groupId>
     <artifactId>gt-h2gis</artifactId>
-    <version>27-SNAPSHOT</version>
+    <version>27</version>
     <packaging>jar</packaging>
 
     <!-- Project Information -->
